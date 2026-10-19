@@ -93,6 +93,8 @@ PhishScan_web_application_design/
 
 This project was built as a group project for a User Experience Design course. Roles were divided across Figma design and front-end development, API integration, database and backend, user research and personas, and accessibility/QA.
 
+Jerron Skiba
+
 ---
 
 ## Roadmap
